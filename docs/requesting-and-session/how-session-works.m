@@ -1,4 +1,4 @@
-# How Session Works
+# How Session Worksd
 
 `AirmoreSession` extends `Session` class which makes it automatic to authorize
 on each `AirmoreRequest`.
